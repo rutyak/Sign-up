@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rutyak/Sign-up.git/static/css/main.cf3ef394.css",
+    "main.js": "/rutyak/Sign-up.git/static/js/main.0c48f5be.js",
+    "index.html": "/rutyak/Sign-up.git/index.html",
+    "main.cf3ef394.css.map": "/rutyak/Sign-up.git/static/css/main.cf3ef394.css.map",
+    "main.0c48f5be.js.map": "/rutyak/Sign-up.git/static/js/main.0c48f5be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf3ef394.css",
+    "static/js/main.0c48f5be.js"
+  ]
+}
